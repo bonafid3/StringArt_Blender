@@ -9,3 +9,5 @@ Usage:
 
 Notes:
 Always the latest file will be opened by the script.
+
+![Bear head](https://raw.githubusercontent.com/bonafid3/StringArt_Blender/main/Bear%20head.png)
