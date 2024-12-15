@@ -30,7 +30,7 @@ Always the latest file will be opened by the script.
 
 ![Ironman](https://raw.githubusercontent.com/bonafid3/StringArt_Blender/main/Ironman.png)
 
-![Jennifer Lawrence](https://raw.githubusercontent.com/bonafid3/StringArt_Blender/main/Jennifer Lawrence.png)
+![Jennifer Lawrence](https://raw.githubusercontent.com/bonafid3/StringArt_Blender/main/Jennifer%20Lawrence.png)
 
 ![Porsche](https://raw.githubusercontent.com/bonafid3/StringArt_Blender/main/Porsche.png)
 
