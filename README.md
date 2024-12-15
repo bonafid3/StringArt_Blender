@@ -38,6 +38,6 @@ Always the latest file will be opened by the script.
 
 ![Rubik's cube](https://raw.githubusercontent.com/bonafid3/StringArt_Blender/main/Rubik's%20cube.png)
 
-![Santa Claus](https://raw.githubusercontent.com/bonafid3/StringArt_Blender/main/Santa Claus.png)
+![Santa Claus](https://raw.githubusercontent.com/bonafid3/StringArt_Blender/main/Santa%20Claus.png)
 
 ![Sunglasses](https://raw.githubusercontent.com/bonafid3/StringArt_Blender/main/Sunglasses.png)
